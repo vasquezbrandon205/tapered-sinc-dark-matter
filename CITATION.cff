@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "tapered-sinc-dark-matter: A Unified Tapered-Sinc Halo Model"
+version: 0.1.0
+date-released: 2026-10-11
+url: https://github.com/vasquezbrandon205/tapered-sinc-dark-matter
+repository-code: https://github.com/vasquezbrandon205/tapered-sinc-dark-matter
+license: Apache-2.0
+authors:
+  - family-names: Vasquez
+    given-names: Brandon Manuel
+keywords:
+  - dark-matter
+  - rotation-curves
+  - SPARC
+  - halo-models
+  - core-cusp-problem
+abstract: >
+  A unified dark-matter halo density profile combining a sinc-like
+  finite core with a smooth taper to an NFW-like outer halo, with
+  rotation-curve fitting, MCMC sampling, AIC/BIC model comparison,
+  and positivity auditing.
